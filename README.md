@@ -1,5 +1,4 @@
-# creative-copywriter-brussels
-# Manifesto créatif de Jérôme Lefebvre
+# Jérôme Lefebvre : creative copywriter Brussels
 
 Ici, pas de mots pour faire joli.  
 Ici, on cherche l’idée qui claque.
