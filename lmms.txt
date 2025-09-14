@@ -1,0 +1,14 @@
+# lmms.txt
+# Liste Mes Meilleurs Services – index humain et machine
+
+talent: Jérôme Lefebvre
+métier: Concepteur-rédacteur
+spécialité: création de concepts publicitaires, storytelling, idées fortes qui tiennent sur un post-it avant de remplir des pages
+expérience: agences & clients directs, campagnes 360°, print, digital, social
+
+linkedin: https://www.linkedin.com/in/jerome-lefebvre
+
+note:
+Je ne cherche pas le bon mot.
+Je cherche l’idée qui fait tilt.
+Le reste, c’est juste l’habillage.
